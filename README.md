@@ -1,16 +1,13 @@
-# file_share
+# File Share App
 
-A new Flutter project.
+## Description
+### Simple linux file share app written with flutter
 
-## Getting Started
+### Your file uploaded to https://transfer.sh
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![Screenshot 1](screenshots/Screenshot%20from%202022-04-17%2022-11-50.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot 2](screenshots/Screenshot%20from%202022-04-17%2022-13-57.png)
